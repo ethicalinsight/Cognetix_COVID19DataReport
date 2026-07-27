@@ -1,4 +1,3 @@
-# Cognetix_COVID19DataReport
 # COVID-19 Data Report
 
 ## 📌 Objective
